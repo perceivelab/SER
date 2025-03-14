@@ -2,6 +2,8 @@
 *.gif
 *.pdf
 data/
+!data/seq_imagenet_FG.yml
+!data/seq_miniimg.yml
 checkpoints/
 *.png
 *.pt
