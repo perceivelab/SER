@@ -48,9 +48,12 @@ python utils/main.py --model derpp_ser --mnp multiply --mnp_blocks 1 1 1 1 1 --d
 # 📜 Citation
 
 ```bibtex
-@inproceedings{bellittosaliency,
-  title={Saliency-driven Experience Replay for Continual Learning},
-  author={Bellitto, Giovanni and Salanitri, Federica Proietto and Pennisi, Matteo and Boschini, Matteo and Bonicelli, Lorenzo and Porrello, Angelo and Calderara, Simone and Palazzo, Simone and Spampinato, Concetto},
-  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+@article{bellitto2024saliency,
+  title={Saliency-driven experience replay for continual learning},
+  author={Bellitto, Giovanni and Proietto Salanitri, Federica and Pennisi, Matteo and Boschini, Matteo and Bonicelli, Lorenzo and Porrello, Angelo and Calderara, Simone and Palazzo, Simone and Spampinato, Concetto},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={103356--103383},
+  year={2024}
 }
 ```
